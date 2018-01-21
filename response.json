@@ -1,0 +1,38 @@
+{
+    "images": [
+        {
+            "classifiers": [
+                {
+                    "classifier_id": "default",
+                    "name": "default",
+                    "classes": [
+                        {
+                            "class": "harbor",
+                            "score": 0.969,
+                            "type_hierarchy": "/shelter/harbor"
+                        },
+                        {
+                            "class": "shelter",
+                            "score": 0.969
+                        },
+                        {
+                            "class": "building",
+                            "score": 0.786
+                        },
+                        {
+                            "class": "blue color",
+                            "score": 0.849
+                        },
+                        {
+                            "class": "steel blue color",
+                            "score": 0.823
+                        }
+                    ]
+                }
+            ],
+            "image": "moment.jpg"
+        }
+    ],
+    "images_processed": 1,
+    "custom_classes": 0
+}

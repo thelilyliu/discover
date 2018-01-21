@@ -1,0 +1,48 @@
+body {
+    background-color: #fcfcfc;
+}
+nav {
+    margin-bottom: 28px;
+    background-color: #26a69a;
+}
+h4 {
+    color: #26a69a;
+    margin: 28px 0;
+}
+#option {
+    margin-bottom: 28px;
+}
+#map {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 28px;
+    display: none;
+}
+#next {
+    display: none;
+}
+#upload {
+    display: none;
+}
+.card .card-content {
+    padding: 24px 24px 12px 24px;
+}
+.card .card-content .card-title {
+    margin-bottom: 12px;
+}
+.card .card-content .chip {
+    margin-right: 10px;
+}
+.card .card-action {
+    padding: 12px 24px 24px 24px;
+    color: #ffab40;
+    text-transform: uppercase;
+}
+.card .card-action .material-icons {
+    font-size: 18px;
+    position: relative;
+    top: 2px;
+}
+.card .card-action span {
+    margin-right: 24px;
+}
